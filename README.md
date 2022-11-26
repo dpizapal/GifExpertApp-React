@@ -11,7 +11,7 @@ www.linkedin.com/in/david-pizarro-developer
 
 ## live
 
-https://dpizapal.github.io/GifExpertApp-React/
+https://gifexpertreactapp.netlify.app/
 
 ## Contact
 
