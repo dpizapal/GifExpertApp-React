@@ -22,7 +22,7 @@ If you wanna contact me you can email to  pizarro.developer@gmail.com
 
 - React Hooks - useState and useEffect
 - CSS
-- Custom Hook to load and contrl de loaded images
+- Custom Hook - async http request, change state
 
 
 ## Resources & References
